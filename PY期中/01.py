@@ -10,3 +10,4 @@ if int(n) <= 1:
         print(index[i],end="")
 else:
     print("輸入錯誤")
+    print("輸入錯誤")
